@@ -1,6 +1,6 @@
 # Privacy Policy for Color Picker Extension
 
-**Effective Date**: [19-01-2025]
+**Effective Date**: 19-01-2025
 
 ## Introduction
 
